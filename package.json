@@ -1,0 +1,16 @@
+{
+  "name": "storybook-openwc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@open-wc/storybook": "^0.1.7",
+    "@storybook/addon-console": "^1.1.0"
+  }
+}
