@@ -1,6 +1,6 @@
 # storybook-openwc
 -------------------------------------
-proof of concept: web components, storybook
+Example how to use storybook with web components.
 
 I have used these links:
 
